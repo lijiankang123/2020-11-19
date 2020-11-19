@@ -1,0 +1,27 @@
+.content1{background:white;text-underline: initial;}
+.top_left{
+	width: 124px;
+	border: 1px solid #000000;
+	text-align: center;
+	line-height: 1;
+	}
+	.top_right{
+		width: 138px;
+		border: 1px solid #000000;
+		line-height: 1;
+	}
+	.my_img2{
+		width: 40%;
+		margin-left: 130px;
+		align-items: center;
+	}
+	.shot,.long{
+		display: inline-block;
+		border:0.5px solid #000000;
+		width: 8px;
+		margin-right: 10px;
+	}
+	.long{
+		width: 40px;
+		margin-right: 10px;
+	}
